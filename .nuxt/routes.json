@@ -1,0 +1,69 @@
+[
+  {
+    "path": "/",
+    "component": "E:\\\\desktop\\\\start\\\\vue\\\\source\\\\realworld-nuxtjs\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "E:\\\\desktop\\\\start\\\\vue\\\\source\\\\realworld-nuxtjs\\\\pages\\\\home",
+        "_name": "_24ec5c0e"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "E:\\\\desktop\\\\start\\\\vue\\\\source\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_78d76e1a"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "E:\\\\desktop\\\\start\\\\vue\\\\source\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_78d76e1a"
+      },
+      {
+        "path": "/profile",
+        "name": "profile",
+        "component": "E:\\\\desktop\\\\start\\\\vue\\\\source\\\\realworld-nuxtjs\\\\pages\\\\profile",
+        "_name": "_79db201a"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "E:\\\\desktop\\\\start\\\\vue\\\\source\\\\realworld-nuxtjs\\\\pages\\\\settings",
+        "_name": "_52c8f3d2"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "E:\\\\desktop\\\\start\\\\vue\\\\source\\\\realworld-nuxtjs\\\\pages\\\\editor",
+        "_name": "_d4eb0e48"
+      },
+      {
+        "path": "/article/:id",
+        "name": "article",
+        "component": "E:\\\\desktop\\\\start\\\\vue\\\\source\\\\realworld-nuxtjs\\\\pages\\\\article",
+        "_name": "_60a56367"
+      },
+      {
+        "path": "/history",
+        "name": "history",
+        "component": "E:\\\\desktop\\\\start\\\\vue\\\\source\\\\realworld-nuxtjs\\\\pages\\\\history",
+        "_name": "_78e709f6"
+      },
+      {
+        "path": "/album/:id",
+        "name": "album",
+        "component": "E:\\\\desktop\\\\start\\\\vue\\\\source\\\\realworld-nuxtjs\\\\pages\\\\album",
+        "_name": "_783afd20"
+      },
+      {
+        "path": "/year/:id",
+        "name": "year",
+        "component": "E:\\\\desktop\\\\start\\\\vue\\\\source\\\\realworld-nuxtjs\\\\pages\\\\year",
+        "_name": "_24f3ef6c"
+      }
+    ],
+    "_name": "_bd4d5ace"
+  }
+]
